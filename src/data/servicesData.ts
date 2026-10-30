@@ -20,8 +20,8 @@ export const BUSINESS_INFO = {
   dispatchTime: '60 - 120 Minutes for Emergency Requests',
   proprietorName: 'Asif',
   proprietorTitle: 'Proprietor & Master Contractor',
-  proprietorDp: '/image_c58ec26f.jpg',
-  proprietorFallbackDp: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=600&q=80',
+  proprietorDp: '/assets/aistudio/image_c58ec26f_75bf3a00.jpg',
+  proprietorFallbackDp: '/image_c58ec26f.jpg',
   guarantees: [
     '100% Aadhaar & Background Verified Personnel',
     'Free Replacement Guarantee within 2 Hours',

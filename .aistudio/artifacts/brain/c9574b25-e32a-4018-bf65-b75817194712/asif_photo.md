@@ -1,6 +1,6 @@
 # Asif Enterprise — Proprietor Profile & Photo
 
-![Asif - Proprietor & Master Contractor](image_c58ec26f.jpg)
+![Asif - Proprietor & Master Contractor](/assets/aistudio/image_c58ec26f_75bf3a00.jpg)
 
 ### Asif
 **Proprietor & Master Contractor — Asif Enterprise**
